@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Poppins:wght@400;500;600;700&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+					/*header-part css end*/
+.container{
+display: flex;
+padding: 0 10% 5%;
+}
+.header-part{
+width: 50%;
+margin-top: 100px;
+}
+
+.header-part h2{
+font-family: 'Libre Baskerville', serif;
+padding: 0 5px;
+font-weight: 700;
+font-size: 50px;
+color: #000;
+text-transform: capitalize;
+border-left: 5px solid tomato;
+border-radius: 3px 4px 4px 3px;
+}
+
+.header-part h2 span{
+	margin-top: -5px;
+color: #ff3838;
+}
+.header-part p{
+font-size: 16px;
+color: #3E3E3E;
+margin: 10px 0 30px;
+}
+.btn{
+text-decoration: none;
+background-color: tomato;
+padding: 10px 25px;
+margin: 10px 0;
+text-transform: capitalize;
+border-radius: 5px;
+color: #fff;
+}
+.header-part span{
+  margin: 30px 0;
+  display: block;
+}
+.my-img{
+width: 50%;
+}
+.my-img img{
+width: 90%;
+float: right;
+margin-top: -20px;
+}
+
+					/*header-part css end*/
+
+					/*Mission-part css start*/
+.mission-section{
+	padding: 0 10% 3%;
+}
+.misson-head{
+	width: 100%;
+	text-align: center;
+	color: #000;
+	font-size: 40px;
+	font-weight: 700;
+}
+.misson-head span{
+	color: #ff3838;
+}
+
+.misson-vision-goals{
+	display: flex;
+	width: 100%;
+	margin: 50px 0;
+}
+.mission{
+	background: #cd84f1;
+}
+.vission{
+	background: #7d5fff;
+}
+.goals{
+	background: #c56cf0;
+}
+.planeing{
+	width: 33%;
+	border-radius: 10px;
+	margin-right: 15px;
+}
+.planeing img{
+	width: 70%;
+	height: 200px;
+}
+.planeing h3{
+	padding: 0 25px;
+}
+.planeing p{
+	padding: 20px 25px;
+	color: #fff;
+}
+					/*mission-part css end*/
+
+/*Documentation part css end*/	
+
+							/*doc-section-one css start*/
+
+.doc-section-one{
+	padding: 0 10% 3%;
+	background-image: url(../images/shapes/shape-1.png);
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 15em;
+	background-position-x: 3em;
+	background-position-y: 1cm;
+}
+.doc-two-part{
+	display: flex;
+	margin-bottom: 70px;
+}
+.doc-img{
+	width: 40%;
+}
+.doc-img img{
+	width: 100%;
+}
+.doc-content{
+	width: 60%;
+	margin: 40px 20px 40px 70px;
+}
+.doc-content h2{
+	font-size: 40px;
+	font-weight: 700;
+	text-transform: capitalize;
+	padding-bottom: 10px;
+}
+.doc-content p{
+	font-size: 16px;
+	padding-bottom: 20px;
+	color: #3E3E3E;
+}
+.content-left{
+	margin: 40px 70px 40px 0px;
+}
+							/*doc-section-one css end*/
+
+							/*doc-section-two css start*/
+.doc-section-two{
+	padding: 0 10% 3%;
+	background-image: url(../images/shapes/shape-1.png);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 12em;
+	background-position-y: 7cm;
+	background-position-x: 95%;
+}
+							/*doc-section-two css end*/
+
+/*Documentation part css end*/
+
+							/* corona part css start */
+
+
+.app-head{
+	width: 100%;
+	text-align: center;
+	color: #000;
+	font-size: 40px;
+	font-weight: 700;
+}
+.app-head span{
+	color: #ff3838;
+}
+
+							/* corona part css end */
+
+
+							/*footer section css start*/
+
+footer{
+	background-color: #000;
+	text-align: center;
+}
+.foot-sec{
+padding: 20px 0;
+}
+.foot-sec h2{
+	color: #fff;
+	font-size: 40px;
+	font-family: 'Libre Baskerville', serif;
+	font-weight: 700;
+}
+.foot-sec h2 span{
+	color: #ff3838;
+}
+
+.foot-sec p{
+	padding-top: 10px;
+	color: #fff;
+}
+							/*footer section css end*/
