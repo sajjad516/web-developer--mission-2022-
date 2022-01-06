@@ -189,19 +189,13 @@ margin-top: -20px;
 }
 .app-content{
 	width: 50%;
-	margin: 100px;
+  margin: 150px 10px 100px 100px;
 }
-.app-content h3{
-	font-family: 'Libre Baskerville', serif;
-	padding: 20px 0;
-	font-weight: 700;
-	font-size: 40px;
-	color: #000;
-	text-transform: capitalize;
-}
+
 .app-content p{
 	font-size: 16px;
-	padding-bottom: 20px;
+	text-align: justify;
+	padding: 30px 0;
 	color: #3E3E3E;
 }
 
