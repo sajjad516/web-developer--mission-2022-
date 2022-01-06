@@ -167,7 +167,6 @@ margin-top: -20px;
 
 							/* corona part css start */
 
-
 .app-head{
 	width: 100%;
 	text-align: center;
@@ -177,6 +176,33 @@ margin-top: -20px;
 }
 .app-head span{
 	color: #ff3838;
+}
+.feature{
+	margin-top: 10px;
+	margin-bottom: -30px;
+}
+.app-img{
+	width: 50%;
+}
+.app-img img{
+	width: 100%;
+}
+.app-content{
+	width: 50%;
+	margin: 100px;
+}
+.app-content h3{
+	font-family: 'Libre Baskerville', serif;
+	padding: 20px 0;
+	font-weight: 700;
+	font-size: 40px;
+	color: #000;
+	text-transform: capitalize;
+}
+.app-content p{
+	font-size: 16px;
+	padding-bottom: 20px;
+	color: #3E3E3E;
 }
 
 							/* corona part css end */
